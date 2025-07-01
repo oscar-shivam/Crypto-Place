@@ -21,7 +21,7 @@ Crypto-Place is a modern React app that tracks real-time cryptocurrency data usi
 ## 📡 API Source
 - [CoinGecko API](https://www.coingecko.com/en/api)
 
-## 🚀 Getting Started
+## 🚀 Getting Started.
 ```bash
 npm install
 npm run dev
